@@ -1,0 +1,145 @@
+
+.logo{position: fixed;left: 664px;
+    width: 180px;
+    height: 50px;
+    bottom: 665px;
+
+
+}
+
+
+
+.title{position: fixed ;left: 570px;bottom: 464px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+}
+.title2{position: fixed ;
+    left: 570px;
+    bottom: 514px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;}
+    .secondicon{
+        position: fixed;
+        left: 572px;
+        bottom:427px ;
+        width: 56px;
+        height: 53px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;}
+    
+.region2{position:fixed;left: 570px;bottom: 430px;
+font-family: helvetica;
+}
+.region3{position:fixed;
+    left: 570px;
+    bottom: 496px;
+    font-family: helvetica;
+    font-size: 14px;
+    }
+
+.region1{font-family: sans-serif;
+    font-size: 13px;
+    word-spacing: 1px;
+    outline-color: rgb(216, 217, 222);
+    position: fixed;
+    left: 570px;
+    bottom: 392px;
+    width: 377px;
+    height: 32px;
+    word-break: normal;
+    outline-width: 1px;
+    outline-style:solid;
+}
+.div {
+    width: 505px;
+    height: 528px;
+    border-color: rgb(220, 217, 217);
+    border-width: 2px;
+    background-color: rgb(254, 252, 252);
+    position: fixed;
+    border-style: solid;
+    left: 505px;
+    bottom: 84px;
+    
+
+  }
+   
+   
+    
+    
+
+
+.email{position: fixed ;left: 570px;bottom: 346px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+   
+    
+}
+    
+.email2{position: fixed ;left: 570px;bottom: 323px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 370px;
+    height: 25px;
+    border-color: rgb(40, 40, 40);
+    background-color: rgb(225, 225, 222);
+    border-top: none ;
+    border-left: none;
+    border-right: none;
+    }
+    
+
+    .terms{position:fixed;
+        left: 594px;
+        bottom: 267px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;}
+
+        .button{position: fixed;left: 569px;bottom: 230px;
+        color: rgb(131, 228, 228);
+        background-color: rgba(255, 255, 255, 0.741);
+        border-color: rgb(131, 228, 228);
+        width: 375px;
+        height: 32px;
+        border-radius: 2px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        }
+        .button2{position: fixed;
+            left: 577px;
+            bottom: 154px;
+            color: rgb(131, 228, 228);
+            background-color: rgba(255, 255, 255, 0.741);
+            border-color: rgb(131, 228, 228);
+            width: 375px;
+            height: 32px;
+            border-radius: 2px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            }
+        .firstname,.firstnameinput,.lastname,.lastnameinput,.code,.codeinput{
+            position: relative;
+            left: 67px;
+            bottom: -196px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+           
+            
+               }
+            .firstnameinput,.lastnameinput,.codeinput{
+            border-color: rgb(40, 40, 40);
+            background-color: rgb(225, 225, 222);
+            border-top: none ;
+            border-left: none;
+            border-right: none;
+            width: 375px;
+            height: 20px;
+            border-radius: 2px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+        }
+
